@@ -1,4 +1,4 @@
-To create a README file for your GitHub repository based on the provided project details, you can follow the structure below:
+
 
 ---
 
@@ -96,10 +96,3 @@ Pollster is a web application built using Django framework. It facilitates condu
    - Select a question and vote for a choice.
    - View the voting results.
 
-## Future Scope
-
-This project can serve as a foundation for implementing online voting systems in various domains. Future enhancements could include additional features based on specific requirements, such as user authentication, result analysis, and sharing options.
-
----
-
-You can copy this structure into a Markdown file named `README.md` in your GitHub repository to provide comprehensive documentation for your project. Make sure to replace placeholders with actual content as needed.
